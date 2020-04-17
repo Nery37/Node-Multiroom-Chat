@@ -11,6 +11,7 @@ Windows:
 Execute os seguintes comandos e depois se conecte a (http://localhost:434):
 
 ```sh
+npm i
 npm update
 node app
 ```
