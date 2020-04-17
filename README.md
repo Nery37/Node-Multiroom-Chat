@@ -16,6 +16,8 @@ npm update
 node app
 ```
 
+Senha Admin: 8291admin23
+
 ## Meta
 
 Vinicius Nery – [@Linkedin](https://www.linkedin.com/in/marcos-nery-a3012/) – Viniciusneryb13@hotmail.com
